@@ -1,0 +1,14 @@
+name: ar_medics_breathefree
+description: A BLE-based spirometry app for AR-Medics
+version: 1.0.0+1
+
+environment:
+  sdk: '^3.8.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_blue_plus: ^1.32.4
+
+flutter:
+  uses-material-design: true

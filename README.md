@@ -1,1 +1,3 @@
-# prototype_spirometry_app
+# spirometry
+
+A new Flutter project.
